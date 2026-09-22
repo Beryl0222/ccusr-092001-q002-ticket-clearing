@@ -1,6 +1,10 @@
 .env
 *.key
 *.pem
+*.db
+*.db-wal
+*.db-shm
+clearing.db*
 node_modules/
 .venv/
 venv/
